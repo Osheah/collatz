@@ -14,4 +14,10 @@ while n != 1:
     # if n is odd, multiply by three and add 1. 
     n = int((3 * n) + 1)
 # Finally, print 1
-print(n)      
+print(n)     
+
+# now go to cmder and type git add .
+# then git commit -m "add the message here"
+# then upload it to github via add new repo collatz (dont initalise it as thats done already)
+# copy the link git remote add origin https://github.com/Osheah/collatz.gitgit push -u origin master
+# git push -u origin master
